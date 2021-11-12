@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulnagesh001
 - 👀 I’m interested in anything and everything related to computers
-- 🌱 I’m currently learning MS computer science
+- 🌱 I’m currently pursuing MS computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- here
 
