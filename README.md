@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulnagesh001
 - 👀 I’m interested in anything and everything related to computers
-- 🌱 I’m currently pursuing MS computer science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 MS computer science Grad from Umass Boston '21
+- 💞️ I’m looking to collaborate on Computer Vision Tech
 - 📫 How to reach me- here
 
 <!---
